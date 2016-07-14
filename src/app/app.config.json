@@ -1,0 +1,13 @@
+{
+  "appname": "ISHIR_Simple",
+  "ocscope": "",
+  "clientid": "6D57B28B-143E-413A-A176-31112A7CBB4C",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
